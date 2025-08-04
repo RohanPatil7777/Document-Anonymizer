@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and outputs
+*.log
+*.json
+
+# VS Code
+.vscode/
