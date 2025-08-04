@@ -12,6 +12,6 @@ This project anonymizes sensitive information (PII) from long documents using Hu
 ## Usage
 ```bash
 pip install -r requirements.txt
-python main.py --input ML_Engineer_Practical_Test_Questa_Engine.pdf --output anonymized_output.json
+python main.py --input (NAME OF THE PDF).pdf --output anonymized_output.json
 ```
 
